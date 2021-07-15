@@ -1,0 +1,17 @@
+.login,
+.image {
+  min-height: 100vh;
+}
+.bg-images {
+  background-color: transparent;
+  background-size: cover;
+  background-position: center center;
+}
+
+::placeholder {
+  font-style: italic;
+  font-size: 1em;
+  color: violet;
+  /* background: thistle; */
+  padding: 5px;
+}
